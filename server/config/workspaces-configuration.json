@@ -1,0 +1,3 @@
+{"MongoDB":"mongodb://database:27017",
+"MongoDocker1":"mongodb://database:44567",
+"mongoDocker2":"mongodb://database:44568"}

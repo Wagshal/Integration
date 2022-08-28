@@ -1,0 +1,514 @@
+[2022-08-01T09:30:16.458Z] INFO (5296 on TB6-03):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T09:30:18.742Z] INFO (5296 on TB6-03):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T09:30:20.014Z] INFO (5296 on TB6-03):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T09:30:21.800Z] INFO (5296 on TB6-03):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T10:00:00.271Z] INFO (5296 on TB6-03):
+    nameAction: "deleteDumpFiles"
+    description: "Deleting old dump files"
+    isSucceeded: true
+    Deleted_at: "13:00"
+    Number_of_folders_deleted: 0
+[2022-08-01T10:06:43.354Z] INFO (7080 on TB6-03):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:270 workspace"
+    isSucceeded: false
+    fell_in_action: "getWorkspaceName"
+    errorMsg: "The workspace not found"
+[2022-08-01T12:00:00.351Z] INFO (20968 on TB6-03):
+    nameAction: "deleteDumpFiles"
+    description: "Deleting old dump files"
+    isSucceeded: true
+    Deleted_at: "15:00"
+    Number_of_folders_deleted: 1
+[2022-08-01T13:29:00.614Z] INFO (24480 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:49:00.297Z] INFO (7308 on TB6-01):
+    nameAction: "autoJobDump"
+    description: "Activating dump automatically"
+    isSucceeded: false
+    errorMsg: "req is not defined"
+[2022-08-01T13:52:01.195Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:52:01.196Z] INFO (12364 on TB6-01):
+    nameAction: "autoJobDump"
+    description: "Activating dump automatically"
+    isSucceeded: true
+    Do_dump_at: 16
+[2022-08-01T13:53:20.474Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:53:22.469Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:53:32.786Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:53:34.076Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:53:35.176Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:53:57.056Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:54:04.954Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:54:05.770Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T13:54:06.519Z] INFO (12364 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T14:08:31.517Z] INFO (2512 on TB6-01):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-01T14:10:31.598Z] INFO (2512 on TB6-01):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-01T14:13:42.721Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:12:01.059Z] INFO (2512 on TB6-01):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-01T15:16:23.889Z] INFO (2512 on TB6-01):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-01T15:55:48.391Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:55:57.533Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:56:00.719Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:56:04.750Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:56:10.296Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:56:24.379Z] INFO (2512 on TB6-01):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDB_2022-08-01T15.56.09.671Z"
+    workspaceUrl: "mongodb://docker:mongopw@localhost:49153"
+[2022-08-01T15:56:27.992Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:58:10.923Z] INFO (2512 on TB6-01):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-01T15:58:12.238Z] INFO (2512 on TB6-01):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: false
+    dumpFile: null
+    workspaceUrl: ""
+    errorMsg: "The file not found"
+[2022-08-01T15:58:16.852Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:58:26.664Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:59:44.201Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T15:59:52.740Z] INFO (2512 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T17:11:00.794Z] INFO (31096 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T17:11:00.796Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobDump"
+    description: "Activating dump automatically"
+    isSucceeded: true
+    Do_dump_at: 20
+[2022-08-01T17:11:00.910Z] INFO (31096 on TB6-01):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDB_2022-08-01T17.11.00.717Z"
+    workspaceUrl: "mongodb://docker:mongopw@localhost:49153"
+[2022-08-01T17:11:00.910Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobRestore"
+    description: "Activating restore automatically"
+    isSucceeded: true
+    Do_restoere_at: 20
+[2022-08-01T17:18:51.833Z] INFO (31096 on TB6-01):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-01T17:58:55.593Z] INFO (31096 on TB6-01):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-01T18:05:13.339Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobDumpAndRestore"
+    description: "Activating dump and restore automatically"
+    isSucceeded: false
+    fell_in_action: "autoJobDumpAndRestore"
+    errorMsg: "Third is a invalid expression for week day"
+[2022-08-01T18:05:22.738Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobDumpAndRestore"
+    description: "Activating dump and restore automatically"
+    isSucceeded: false
+    fell_in_action: "autoJobDumpAndRestore"
+    errorMsg: "Third is a invalid expression for week day"
+[2022-08-01T18:05:37.995Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobDumpAndRestore"
+    description: "Activating dump and restore automatically"
+    isSucceeded: false
+    fell_in_action: "autoJobDumpAndRestore"
+    errorMsg: "Third is a invalid expression for week day"
+[2022-08-01T18:05:46.304Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobDumpAndRestore"
+    description: "Activating dump and restore automatically"
+    isSucceeded: false
+    fell_in_action: "autoJobDumpAndRestore"
+    errorMsg: "Third is a invalid expression for week day"
+[2022-08-01T18:08:01.613Z] INFO (31096 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T18:08:01.615Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobDump"
+    description: "Activating dump automatically"
+    isSucceeded: true
+    Do_dump_at: 21
+[2022-08-01T18:10:00.898Z] INFO (31096 on TB6-01):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: true
+[2022-08-01T18:10:00.899Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobDump"
+    description: "Activating dump automatically"
+    isSucceeded: true
+    Do_dump_at: 21
+[2022-08-01T18:13:58.492Z] INFO (31096 on TB6-01):
+    nameAction: "autoJobDumpAndRestore"
+    description: "Activating dump and restore automatically"
+    isSucceeded: false
+    fell_in_action: "autoJobDumpAndRestore"
+    errorMsg: "pattern must be a string!"
+[2022-08-09T23:11:29.165Z] INFO (20448 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://localhost:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "getWorkspaceName"
+    errorMsg: "The workspace not found"
+[2022-08-10T21:33:29.473Z] INFO (23460 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "DUMP_FOLDER is not defined"
+[2022-08-11T07:41:47.903Z] INFO (37940 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "DUMP_FOLDER is not defined"
+[2022-08-11T07:51:56.122Z] INFO (42512 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T07:54:07.364Z] INFO (44908 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T11:06:58.817Z] INFO (54080 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T22:55:48.617Z] INFO (6856 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T22:59:35.974Z] INFO (13728 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:00:56.755Z] INFO (14772 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:02:42.617Z] INFO (11400 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:06:02.909Z] INFO (9280 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:06:50.979Z] INFO (13380 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:08:54.715Z] INFO (9620 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:14:45.993Z] INFO (9756 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:26:52.677Z] INFO (492 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:27:47.474Z] INFO (1552 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: false
+    fell_in_action: "do dump"
+    errorMsg: "Binary mongodump not found"
+[2022-08-11T23:36:20.539Z] INFO (3664 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-11T23:36:21.478Z] INFO (3664 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDBlocal_2022-08-11T23.36.19.595Z"
+    workspaceUrl: "mongodb://127.0.0.1:27017"
+[2022-08-12T07:00:01.485Z] INFO (12664 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-12T07:00:02.414Z] INFO (12664 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDBlocal_2022-08-12T07.00.00.500Z"
+    workspaceUrl: "mongodb://127.0.0.1:27017"
+[2022-08-12T07:04:40.059Z] INFO (5720 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-12T07:04:40.226Z] INFO (5720 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDBlocal_2022-08-12T07.04.39.959Z"
+    workspaceUrl: "mongodb://127.0.0.1:27017"
+[2022-08-14T21:59:06.379Z] INFO (6036 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-14T22:12:58.300Z] INFO (8212 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-14T22:15:22.976Z] INFO (8212 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-14T22:19:31.462Z] INFO (2196 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-14T22:21:05.622Z] INFO (2196 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-14T22:21:06.790Z] INFO (2196 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDBlocal_2022-08-14T22.21.05.453Z"
+    workspaceUrl: "mongodb://127.0.0.1:27017"
+[2022-08-14T22:25:07.269Z] INFO (2196 on DESKTOP-QQ812C4):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-14T22:26:31.850Z] INFO (2196 on DESKTOP-QQ812C4):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-14T22:27:24.584Z] INFO (2196 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-15T07:24:43.597Z] INFO (6360 on DESKTOP-QQ812C4):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-15T21:40:01.093Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-15T21:40:32.729Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "removeWorkspace"
+    description: "Removing an environment from a configuration file"
+    isSucceeded: true
+    The_environment_removed: ""
+[2022-08-15T21:40:38.948Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "removeWorkspace"
+    description: "Removing an environment from a configuration file"
+    isSucceeded: true
+    The_environment_removed: ""
+[2022-08-15T21:40:45.174Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "removeWorkspace"
+    description: "Removing an environment from a configuration file"
+    isSucceeded: true
+    The_environment_removed: ""
+[2022-08-15T21:40:54.806Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "removeWorkspace"
+    description: "Removing an environment from a configuration file"
+    isSucceeded: true
+    The_environment_removed: ""
+[2022-08-15T21:41:02.276Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "removeWorkspace"
+    description: "Removing an environment from a configuration file"
+    isSucceeded: true
+    The_environment_removed: ""
+[2022-08-15T21:41:09.109Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "removeWorkspace"
+    description: "Removing an environment from a configuration file"
+    isSucceeded: true
+    The_environment_removed: ""
+[2022-08-15T21:41:14.801Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "removeWorkspace"
+    description: "Removing an environment from a configuration file"
+    isSucceeded: true
+    The_environment_removed: ""
+[2022-08-15T21:41:26.839Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "AddWorkspace"
+    description: "Adding a new environment to a configuration file"
+    isSucceeded: true
+    The_environment_added: ""
+[2022-08-15T21:41:26.841Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "removeWorkspace"
+    description: "Removing an environment from a configuration file"
+    isSucceeded: true
+    The_environment_removed: ""
+[2022-08-15T21:46:04.478Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "AddWorkspace"
+    description: "Adding a new environment to a configuration file"
+    isSucceeded: true
+    The_environment_added: ""
+[2022-08-15T21:46:28.441Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "AddWorkspace"
+    description: "Adding a new environment to a configuration file"
+    isSucceeded: true
+    The_environment_added: ""
+[2022-08-15T21:46:45.186Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-15T21:46:46.118Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: false
+    dumpFile: "C:/Integration_Project/dump/MongoDB_2022-08-15T21.46.45.112Z//dump_mydump.gz"
+    workspaceUrl: "http://localhost:44567"
+    errorMsg: "The workspace not found"
+[2022-08-15T21:50:03.292Z] INFO (4892 on DESKTOP-QQ812C4):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-15T21:51:56.447Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-15T21:51:56.639Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDB_2022-08-15T21.51.56.378Z"
+    workspaceUrl: "mongodb://localhost:44567"
+[2022-08-15T21:52:18.560Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-15T21:52:28.563Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDBlocal_2022-08-14T22.15.22.886Z"
+    workspaceUrl: "mongodb://localhost:44568"
+[2022-08-15T21:52:32.556Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "returenDumpFiles"
+    description: true
+[2022-08-15T22:14:55.056Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-15T22:14:55.213Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDB_2022-08-15T22.14.54.970Z"
+    workspaceUrl: "mongodb://localhost:44567"
+[2022-08-15T22:15:48.888Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "Dump"
+    description: "do dump from mongodb://127.0.0.1:27017 workspace"
+    isSucceeded: true
+[2022-08-15T22:15:49.071Z] INFO (21812 on DESKTOP-QQ812C4):
+    nameAction: "restore"
+    description: "Restore to the dumpFile into the database"
+    isSucceeded: true
+    dumpFile: "MongoDB_2022-08-15T22.15.48.812Z"
+    workspaceUrl: "mongodb://localhost:44568"

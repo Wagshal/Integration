@@ -1,0 +1,40 @@
+services:
+  backend:
+    image: "integration"
+    depends_on:
+      - database
+    ports:
+      - 3131:3131
+    environment:
+      - APP_PORT=3131
+      - DUMP_FOLDER=/data/dump
+      - DEFAULT_DUMP_URL=mongodb://database:27017
+      - FILTERS_PORT=mongodb://database:27017
+      - FILTER_DATA=filters
+      - FILTER_COLLECTION=query_data
+      - WORKSPACES=config/workspaces-configuration.json
+      - MONGO_NAME=database
+    volumes:
+      - dumpfolder:/data/dump
+
+  database:
+    image: mongo
+    restart: unless-stopped
+    ports:
+      - 27017:27017
+      - 44567:44567
+      - 44568:44568
+    volumes:
+      - data:/data/db
+  
+  client:
+    image: frontend
+    restart: unless-stopped
+    ports:
+      - 3000:3000
+    depends_on:
+      - backend
+  
+volumes:
+   data:
+   dumpfolder:

@@ -1,0 +1,29 @@
+# volumes:
+#   data:
+
+
+# services:
+  app:
+    image: "integration"
+    depends_on:
+      - mongodb_local
+      - mongotools
+    ports:
+      - 3131:3131
+    environment:
+      - DUMP_FOLDER= "C:/Integration_Project/dump"
+      - DEFAULT_DUMP_URL= "mongodb://mongodb_local:27017"
+      - FILTERS_PORT = "mongodb://mongodb_local:27017" 
+      - FILTER_DATA = "filters"
+      - FILTER_COLLECTION = "query_data"
+      - WORKSPACES="config/workspaces-configuration.json"
+  mongodb_local:
+    image: mongo
+    restart: unless-stopped
+    ports:
+      - 27017:27017
+    volumes:
+      - data:/data/
+  mongotools:
+    image: leafney/alpine-mongo-tools
+    restart: unless-stopped

@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.overrideColor {
+    color: teal!important;
+}
+.overrideColor:disabled{
+    color: rgb(153, 153, 153)!important ;
+}
+
+.overrideBackColor {
+    background-color: teal!important;
+}
+
+.Tab {
+    color: teal!important;
+    flex: 1 1 auto;
+    justify-content: center;
+    display: inline;
+}
+
+.hover:hover {
+    background-color: rgba(0, 128, 128, 0.034);
+}
+
+.overrideStyle {
+    color: teal!important;
+    padding: 1vh;
+    margin-bottom: 1.3Vh;
+}
+
+.left {
+    text-align: left!important;
+}
+
+.hide {
+    display: none!important;
+}
+#iconNotEx{
+    width: 4rem !important;
+    height:5rem !important;
+}
+.circularProgress{
+margin-top: -15vw;
+margin-left:-14.5vw;
+}
+.circularProgressExists{
+    margin-left:-23.5vw;
+    margin-top: -15vw;
+
+}

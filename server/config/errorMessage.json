@@ -1,0 +1,9 @@
+{
+     "ERR_1": "The workspace not found",
+     "ERR_2":"The file not found",
+     "ERR_3" : "The workspace url already exist",
+     "ERR_4":  "The workspace name already exist",
+     "ERR_5":  "Failed to add",
+     "ERR_6":  "Failed to remove",
+     "ERR_7":  "Failed to change"
+}
